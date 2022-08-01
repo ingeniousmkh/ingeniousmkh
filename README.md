@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @
+- 👋 Hi, I’m @ingeniousmkh
 - 👀 I’m interested in learning and working with programming.
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on website design and development.
